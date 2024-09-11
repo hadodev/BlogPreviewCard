@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repository solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository solution URL here](https://github.com/hadodev/BlogPreviewCard)
+- Live Site URL: [Live site URL here](https://hadodev-frontendmentor-blogpreview.netlify.app/)
 
 ## My process
 
